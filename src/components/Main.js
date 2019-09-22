@@ -126,8 +126,9 @@ class Main extends Component {
     return (
       <div>
         <Navbar score={this.state.score} highScore={this.state.highScore} />
+        <br></br>
         <Jumbotron />
-        <div className="container pt-3 bg-success">
+        <div className="container pt-3">
           <div className="row">{cards}</div>
         </div>
       </div>

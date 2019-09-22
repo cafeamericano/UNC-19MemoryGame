@@ -6,9 +6,9 @@ class Jumbotron extends Component {
   }
   render = () => {
     return (
-      <div className="jumbotron jumbotron-fluid">
+      <div className="jumbotron jumbotron-fluid shadow">
         <div className="container">
-          <h1 className="display-4">Clicky Game</h1>
+          <h1 className="display-4">Memory Game</h1>
           <p className="lead">
             Click as many fruits as you can without clicking the same one twice.
           </p>

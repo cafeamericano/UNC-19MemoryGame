@@ -6,9 +6,9 @@ class Navbar extends Component {
   }
   render = () => {
     return (
-      <nav className="navbar navbar-dark bg-primary text-light">
-        <h5>Clicky Game</h5> <p>Score: {this.props.score}</p>
-        <p>High Score: {this.props.highScore}</p>
+      <nav className="navbar navbar-dark bg-warning text-dark shadow">
+        <h6>Current Score: {this.props.score}</h6>
+        <h6>High Score: {this.props.highScore}</h6>
       </nav>
     );
   };

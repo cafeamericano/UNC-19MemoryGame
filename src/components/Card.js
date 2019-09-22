@@ -10,7 +10,7 @@ class Card extends Component {
     return (
       <div className="col-4">
         <div
-          className="card p-3 mb-3 text-center"
+          className="card p-3 mb-3 text-center shadow"
           onClick={() => this.props.handleClick(this.props.id)}
         >
           <div style={style}>{this.props.content}</div>
