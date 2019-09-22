@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/UNC-19MemoryGame/static/js/main.f8f1aedd.chunk.js",
+    "main.js.map": "/UNC-19MemoryGame/static/js/main.f8f1aedd.chunk.js.map",
+    "runtime-main.js": "/UNC-19MemoryGame/static/js/runtime-main.8737b9aa.js",
+    "runtime-main.js.map": "/UNC-19MemoryGame/static/js/runtime-main.8737b9aa.js.map",
+    "static/js/2.1862cbc6.chunk.js": "/UNC-19MemoryGame/static/js/2.1862cbc6.chunk.js",
+    "static/js/2.1862cbc6.chunk.js.map": "/UNC-19MemoryGame/static/js/2.1862cbc6.chunk.js.map",
+    "index.html": "/UNC-19MemoryGame/index.html",
+    "precache-manifest.dfa0b1201cbaf226dee9b31615389013.js": "/UNC-19MemoryGame/precache-manifest.dfa0b1201cbaf226dee9b31615389013.js",
+    "service-worker.js": "/UNC-19MemoryGame/service-worker.js"
+  }
+}
